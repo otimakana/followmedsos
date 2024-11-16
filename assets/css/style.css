@@ -67,4 +67,5 @@ body {
 }
 .btn:hover {
   background-color: var(--icons-bg-primary);
+  transform: rotate(2deg);
 }
